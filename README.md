@@ -1,91 +1,72 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hi, I'm Ricky Nugraha</h1>
+<p align="center"><strong>Full-Stack Developer · Web Applications, AI Integration & IoT</strong></p>
+<p align="center">Jakarta Selatan, Indonesia</p>
 
----
+<p align="center">
+  <a href="https://portofolio-ricky-nugraha.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/ricky-nugraha-91929b284/">LinkedIn</a> ·
+  <a href="mailto:rickynugraha1215@gmail.com">Email</a> ·
+  <a href="https://github.com/ricky-codes12/portofolio-Ricky-Nugraha/blob/main/public/CV_Ricky_Nugraha_English.pdf">View CV</a>
+</p>
 
-## 👋 Hai, saya Ricky Nugraha
+## About me
 
-Saya orang yang **senang belajar hal baru**, cepat beradaptasi, dan antusias menghadapi tantangan.  
-Berpengalaman di **IT, Front-End Development, administrasi, dan proyek freelance**.  
+I'm an Informatics graduate building web applications from responsive interfaces and backend APIs to databases and deployment. My portfolio includes resident management, business dashboards, company websites, AI chat applications, and IoT tools.
 
-Selain itu, saya suka **⚽ futsal, 🎮 gaming, dan explore teknologi baru**.  
-Selalu mencoba tetap positif dan **enjoy** dalam setiap pekerjaan yang saya lakukan! 😎
+I work with React, Next.js, Svelte, Go, and Laravel. My background in IT support and data processing helps me understand the operational needs behind the software I build.
 
----
+- **Full-stack development:** interfaces, API integration, databases, authentication, and deployment.
+- **AI & IoT:** chatbot integration, RAG experiments, device simulation, and telemetry applications.
+- **Infrastructure:** Linux server setup, Docker, and application maintenance.
 
-## 🛠️ Skills & Tools
+## Tech stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="TypeScript" title="TypeScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" title="Next.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="Storybook" title="Storybook" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL" title="GraphQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go" title="Go" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust" title="Rust" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS" title="NestJS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" title="Python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS" title="AWS" />
-</div>
+| Area | Technologies |
+| --- | --- |
+| Frontend | JavaScript, TypeScript, React, Next.js, Svelte, SvelteKit, Tailwind CSS, Sass |
+| Backend & APIs | Go, Laravel, REST APIs, Bun, Node.js fundamentals |
+| Databases | PostgreSQL, PostGIS, MySQL, SQLite |
+| Deployment & tools | Git, GitHub, Docker, Linux Ubuntu, Vercel |
+| AI, IoT & data | AI integration, RAG, LLM evaluation, MQTT, Python, Streamlit |
 
----
+## Selected projects
 
-## 📫 Connect with me
+### Warga BNH — Resident Management
+Independently developed a full-stack application for resident records, regional administration, dashboards, reports, and maps. Includes local ID-card OCR with manual review, role-based access, TOTP MFA, and audit logs.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ricky-nugraha-91929b284/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://instagram.com/rricky_nugraha" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:rickynugraha1215@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://wa.me/6281387613515" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" />
-  </a>
-</div>
+**Stack:** Next.js, React, TypeScript, Node.js, PostgreSQL, Tailwind CSS, Tesseract.js, Docker  
+[Project overview & screenshots](https://portofolio-ricky-nugraha.vercel.app/#projects)
 
----
+### IMS Finance — Finance Dashboard
+Developed the frontend for financing forms, contract lists, and billing and penalty summaries, bringing financing details and operational information into one interface.
 
-## 🟢 Contribution Graph (Pacman Style)
+**Stack:** React, Sass · Laravel backend repository  
+[Live demo](https://ims-finance-frontend.vercel.app/) · [Frontend code](https://github.com/ricky-codes12/ims-finance-frontend) · [Backend code](https://github.com/ricky-codes12/ims-finance-backend)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricky-codes12/ricky-codes12/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricky-codes12/ricky-codes12/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ricky-codes12/ricky-codes12/output/pacman-contribution-graph.svg" />
-</picture>
+### Company Profile Website
+Independently designed, developed, deployed, and maintained a responsive company website presenting services, portfolio, careers, and contact information.
 
----
+**Stack:** React, CSS, Sass  
+[Live demo](https://company-profile-teal-eta.vercel.app/)
 
-## 📊 GitHub Fun Stats
+### Bike Sharing Dashboard
+Built an analytics dashboard with date filters, rental summaries, and visualizations of hourly usage and weather-related rental patterns.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricky-codes12&show_icons=true&theme=dracula&cache_seconds=1800" height="150" title="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricky-codes12&layout=compact&langs_count=5&theme=dracula&cache_seconds=1800" height="150" title="Top Languages" />
-</div>
+**Stack:** Python, Streamlit, Data Visualization  
+[Live demo](https://bike-sharing-dashboard-qjornwxhtakibwxwqpd9ho.streamlit.app/) · [Code](https://github.com/ricky-codes12/bike-sharing-dashboard)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ricky-codes12&theme=dracula&hide_border=false" height="150" title="GitHub Streak" />
-</div>
+## Company project contributions
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ricky-codes12&theme=dracula&row=1&column=6" title="Trophies" />
-</div>
+Selected work from the Hexa ecosystem, documented in my portfolio:
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricky-codes12&theme=react&area=true" title="Activity Graph" />
-</div>
+- **Hexa Chat Live — Independent development:** built an AI chat application with Svelte, Go, and PostgreSQL, integrating Hexa.AI through the backend.
+- **Hexa.Simulator — Independent development:** built a GPS tracker and IoT sensor simulator using Go, Svelte, and PostgreSQL, with MQTT, Teltonika TCP, and HTTP connectivity.
+- **Hexa.Sensor & Hexa.AI — Team contributions:** contributed to IoT platform development and Web AI application development and integration using Go, SvelteKit, TypeScript, and PostgreSQL/PostGIS.
 
----
+[Explore project details, roles & screenshots →](https://portofolio-ricky-nugraha.vercel.app/#projects)
 
-✨ **Keep learning, stay curious, and enjoy coding!**
+## Let's connect
+
+Open to discussing full-stack development roles and projects involving web applications, dashboards, and AI integration.
+
+[Portfolio](https://portofolio-ricky-nugraha.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ricky-nugraha-91929b284/) · [Email](mailto:rickynugraha1215@gmail.com)
