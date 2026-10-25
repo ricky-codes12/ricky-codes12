@@ -70,3 +70,11 @@ Selected work from the Hexa ecosystem, documented in my portfolio:
 Open to discussing full-stack development roles and projects involving web applications, dashboards, and AI integration.
 
 [Portfolio](https://portofolio-ricky-nugraha.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ricky-nugraha-91929b284/) · [Email](mailto:rickynugraha1215@gmail.com)
+
+## Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricky-codes12/ricky-codes12/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricky-codes12/ricky-codes12/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man animation of Ricky Nugraha's GitHub contributions" src="https://raw.githubusercontent.com/ricky-codes12/ricky-codes12/output/pacman-contribution-graph.svg" width="100%">
+</picture>
